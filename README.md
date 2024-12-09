@@ -1,6 +1,4 @@
 # to-do-list-react
-# Simple Todo App with React
-
 ![Todo App Screenshot](https://s8.uupload.ir/files/screenshot_from_2024-11-30_17-22-08_yytj.png) <!-- Add a screenshot of your app here -->
 
 ## Overview
